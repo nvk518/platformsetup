@@ -1,1 +1,1 @@
-# platformsetup
+# Polkadot network substrate tutorial
